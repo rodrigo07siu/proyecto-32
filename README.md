@@ -1,1 +1,1 @@
-# proyecto-32
+# Plantilla del proyecto 26
